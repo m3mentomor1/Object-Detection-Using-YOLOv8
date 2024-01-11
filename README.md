@@ -20,3 +20,16 @@ This is a simple object detection program that uses the YOLO (You Only Look Once
 
 ### 🛠️ III. How to Use? 
 
+**1. Clone this repository**
+
+   Paste this command on your terminal: 
+   ```
+   git clone https://github.com/m3mentomor1/Object-Detection-Using-YOLOv8.git
+   ```
+
+**2. Go to the repository's main directory**
+   
+   Paste this command on your terminal:
+   ```
+   cd Object-Detection-Using-YOLOv8
+   ```
