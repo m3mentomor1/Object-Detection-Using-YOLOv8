@@ -14,6 +14,9 @@ This is a simple object detection program that uses the YOLO (You Only Look Once
 ***Others***
 - **Math** -
 
-**Download TXT File Here:** [requirements.txt]()
- 
+**Download TXT File Here:** [requirements.txt](https://github.com/m3mentomor1/Object-Detection-Using-YOLOv8/blob/main/requirements.txt)
+
+----------------------
+
+### 🛠️ III. How to Use? 
 
