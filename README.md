@@ -8,7 +8,7 @@ This is a simple object detection program that uses the YOLO (You Only Look Once
 ### 📦 II. Dependencies
 
 ***Main***
-- **OpenCV** -
+- **OpenCV** - an open-source computer vision library known for its use in image processing and computer vision projects.
 - **Ultralytics** -
 
 ***Others***
