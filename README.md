@@ -33,3 +33,10 @@ This is a simple object detection program that uses the YOLO (You Only Look Once
    ```
    cd Object-Detection-Using-YOLOv8
    ```
+
+**3. Install dependencies**
+
+   Paste this command on your terminal:
+   ```
+   pip install -r requirements.txt
+   ```
