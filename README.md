@@ -9,10 +9,10 @@ This is a simple object detection program that uses the YOLO (You Only Look Once
 
 ***Main***
 - **OpenCV** - an open-source computer vision library known for its use in image processing and computer vision projects.
-- **Ultralytics** -
+- **Ultralytics** - a deep learning library that provides easy-to-use tools for training and deploying computer vision models.
 
 ***Others***
-- **Math** -
+- **Math** - a Python library for mathematical operations.
 
 **Download TXT File Here:** [requirements.txt](https://github.com/m3mentomor1/Object-Detection-Using-YOLOv8/blob/main/requirements.txt)
 
